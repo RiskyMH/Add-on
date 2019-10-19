@@ -1,0 +1,18 @@
+{
+    "extensionName": {
+        "message": "Notify link clicks i18n",
+        "description": "Name of the extension."
+    },
+    "extensionDescription": {
+        "message": "Shows a notification when the user clicks on links.",
+        "description": "Description of the extension."
+    },
+    "extensionShortName": {
+        "message": "name",
+        "description": "smaller than 12"
+    },
+    "beta": {
+        "message": " β",
+        "description": "If βeta."
+    }
+}
